@@ -9,7 +9,7 @@ CS @ UCSC • full-stack dev • systems nerd • human-AI collaboration researc
 - 🧪 Exploring how AI can support community interactions
   
 <div align="center">  
-<a href="nukeskar@gmail.com">  
+<a href="mailto:nukeskar@gmail.com">  
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />  
 </a>  
 <a href="https://www.linkedin.com/in/namrata-keskar/" target="_blank">  
