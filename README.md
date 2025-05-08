@@ -63,13 +63,13 @@ CS @ UCSC • full-stack dev • systems nerd • human-AI collaboration researc
       Budgeting & financial planning app built with real-time tracking, auth, and data storage.<br>
       Designed for the 2023 Google Solutions Challenge.<br>
       <sub><code>Flutter</code> · <code>Firebase</code> · <code>Mobile Dev</code></sub><br>
-      🔗 <a href="https://github.com/YOURUSERNAME/on-a-budget">View on GitHub</a>
+      🔗 <a href="https://github.com/On-A-Budget">View on GitHub</a>
     </td>
     <td width="100%" colspan="2" valign="top">
       <strong>💌 Gratitude Mapping with ChatGPT</strong><br>
       Full-stack platform to surface unsung community heroes by analyzing student-written gratitude notes using GPT APIs<br>
       <sub><code>Full Stack Dev</code> · <code>AI for Social Good</code> · <code>GPTs</code> </sub><br>
-      📰 [Read the news article](https://www.santacruzworks.org/news/fostering-connections-in-santa-cruz-through-chatgpt-a-unique-ucsc-student-project)
+      📰 <a href="[https://github.com/On-A-Budge](https://www.santacruzworks.org/news/fostering-connections-in-santa-cruz-through-chatgpt-a-unique-ucsc-student-project)t">Read the news article</a>
     </td>
   </tr>
 </table>
