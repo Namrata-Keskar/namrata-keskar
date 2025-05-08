@@ -69,7 +69,7 @@ CS @ UCSC • full-stack dev • systems nerd • human-AI collaboration researc
       <strong>💌 Gratitude Mapping with ChatGPT</strong><br>
       Full-stack platform to surface unsung community heroes by analyzing student-written gratitude notes using GPT APIs<br>
       <sub><code>Full Stack Dev</code> · <code>AI for Social Good</code> · <code>GPTs</code> </sub><br>
-      📰 <a href="https://www.santacruzworks.org/news/fostering-connections-in-santa-cruz-through-chatgpt-a-unique-ucsc-student-projectt">Read the news article</a>
+      📰 <a href="https://www.santacruzworks.org/news/fostering-connections-in-santa-cruz-through-chatgpt-a-unique-ucsc-student-project">Read the news article</a>
     </td>
   </tr>
 </table>
