@@ -34,7 +34,7 @@ CS @ UCSC • full-stack dev • systems nerd • human-AI collaboration researc
       <strong>🧵C++ Compiler in Python</strong><br>
       Built a C++ compiler using Lex-Yacc and Python with an SOS scanner, custom grammar, and error handling.<br>
       <sub><code>Python</code> · <code>Compiler Design</code> · <code>Optimization</code></sub><br>
-       🔒 Private project – contact for demo
+       🔒 Private project
     </td>
     <td width="100%" colspan="2" valign="top">
       <strong>💌 Gratitude Mapping with ChatGPT</strong><br>
@@ -48,7 +48,7 @@ CS @ UCSC • full-stack dev • systems nerd • human-AI collaboration researc
       <strong>🥗 In a Pickle</strong><br>
       Mobile app that scans restaurant menus and flags allergens using OCR and diet preferences.<br>
       <sub><code>React Native</code> · <code>GCP</code> · <code>OCR</code> · <code>Firebase</code></sub><br>
-      🔒 Private project – contact for demo
+      🔒 Private project
     </td>
     <td width="50%" valign="top">
       <strong>🏠 HomeBase</strong><br>
@@ -62,7 +62,7 @@ CS @ UCSC • full-stack dev • systems nerd • human-AI collaboration researc
       <strong>🌐 Multithreaded HTTP Server</strong><br>
       Developed a multithreaded HTTP server in C with a thread-safe queue and reader-writer lock, ensuring linearization of client requests.<br>
       <sub><code>C</code> · <code>Multithreading</code> · <code>Concurrency</code> · <code>Systems Programming</code></sub><br>
-       🔒 Private project – contact for demo
+       🔒 Private project
     </td>
     <td width="50%" valign="top">
         <strong>💸 On A Budget</strong><br>
