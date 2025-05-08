@@ -51,7 +51,7 @@ CS @ UCSC • full-stack dev • systems nerd • human-AI collaboration researc
       🔒 Private project – contact for demo
     </td>
     <td width="50%" valign="top">
-      <strong>🧠 HomeBase</strong><br>
+      <strong>🏠 HomeBase</strong><br>
       A ReactJS + Firebase web app to help unhoused individuals locate essential services via a real-time, accessible map.<br>
      <sub><code>ReactJS</code> · <code>Firebase</code> · <code>Google Maps API</code></sub><br>
        🔗 <a href="https://github.com/Namrata-Keskar/CruzHacks2024">View on GitHub</a>
