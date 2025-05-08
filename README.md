@@ -36,11 +36,11 @@ CS @ UCSC • full-stack dev • systems nerd • human-AI collaboration researc
       <sub><code>Python</code> · <code>Compiler Design</code> · <code>Optimization</code></sub><br>
        🔒 Private project – contact for demo
     </td>
-    <td width="50%" valign="top">
-      <strong>🧠 HomeBase</strong><br>
-      A ReactJS + Firebase web app to help unhoused individuals locate essential services via a real-time, accessible map.<br>
-     <sub><code>ReactJS</code> · <code>Firebase</code> · <code>Google Maps API</code></sub><br>
-       🔗 <a href="https://github.com/Namrata-Keskar/CruzHacks2024">View on GitHub</a>
+    <td width="100%" colspan="2" valign="top">
+      <strong>💌 Gratitude Mapping with ChatGPT</strong><br>
+      Full-stack platform to surface unsung community heroes by analyzing student-written gratitude notes using GPT APIs<br>
+      <sub><code>Full Stack Dev</code> · <code>AI for Social Good</code> · <code>GPTs</code> </sub><br>
+      📰 <a href="https://www.santacruzworks.org/news/fostering-connections-in-santa-cruz-through-chatgpt-a-unique-ucsc-student-project">Read the news article</a>
     </td>
   </tr>
   <tr>
@@ -51,26 +51,26 @@ CS @ UCSC • full-stack dev • systems nerd • human-AI collaboration researc
       🔒 Private project – contact for demo
     </td>
     <td width="50%" valign="top">
+      <strong>🧠 HomeBase</strong><br>
+      A ReactJS + Firebase web app to help unhoused individuals locate essential services via a real-time, accessible map.<br>
+     <sub><code>ReactJS</code> · <code>Firebase</code> · <code>Google Maps API</code></sub><br>
+       🔗 <a href="https://github.com/Namrata-Keskar/CruzHacks2024">View on GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <strong>🌐 Multithreaded HTTP Server</strong><br>
       Developed a multithreaded HTTP server in C with a thread-safe queue and reader-writer lock, ensuring linearization of client requests.<br>
       <sub><code>C</code> · <code>Multithreading</code> · <code>Concurrency</code> · <code>Systems Programming</code></sub><br>
        🔒 Private project – contact for demo
     </td>
-  </tr>
-  <tr>
-  <td width="50%" valign="top">
-      <strong>💸 On A Budget</strong><br>
-      Budgeting & financial planning app built with real-time tracking, auth, and data storage.<br>
-      Designed for the 2023 Google Solutions Challenge.<br>
-      <sub><code>Flutter</code> · <code>Firebase</code> · <code>Mobile Dev</code></sub><br>
-      🔗 <a href="https://github.com/On-A-Budget">View on GitHub</a>
-    </td>
-    <td width="100%" colspan="2" valign="top">
-      <strong>💌 Gratitude Mapping with ChatGPT</strong><br>
-      Full-stack platform to surface unsung community heroes by analyzing student-written gratitude notes using GPT APIs<br>
-      <sub><code>Full Stack Dev</code> · <code>AI for Social Good</code> · <code>GPTs</code> </sub><br>
-      📰 <a href="https://www.santacruzworks.org/news/fostering-connections-in-santa-cruz-through-chatgpt-a-unique-ucsc-student-project">Read the news article</a>
-    </td>
+    <td width="50%" valign="top">
+        <strong>💸 On A Budget</strong><br>
+        Budgeting & financial planning app built with real-time tracking, auth, and data storage.<br>
+        Designed for the 2023 Google Solutions Challenge.<br>
+        <sub><code>Flutter</code> · <code>Firebase</code> · <code>Mobile Dev</code></sub><br>
+        🔗 <a href="https://github.com/On-A-Budget">View on GitHub</a>
+      </td>
   </tr>
 </table>
 
