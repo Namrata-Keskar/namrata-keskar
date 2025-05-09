@@ -74,6 +74,13 @@ CS @ UCSC • full-stack dev • systems nerd • human-AI collaboration researc
   </tr>
 </table>
 
+## 📝 Publications
+
+- **[Exploring Communal Gratitude in Online Communities](https://dl.acm.org/doi/10.1145/3710972)**  
+Lei, Kehua and Lum, Kathleen and **Keskar, Namrata** and Kheirinejad, Saba and Potnuru, Shivani and Xing, Amy and Itakura, Reina and Hosio, Simo and Lee, David T.
+*Proceedings of the ACM on Human-Computer Interaction (CSCW), May 2025*  
+Qualitative study exploring how gratitude-centered platforms can foster connection, reflection, and well-being in online communities.
+
 ## ⚡️ Stats  
 
 <div align=center>  
